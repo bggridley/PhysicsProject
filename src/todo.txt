@@ -1,0 +1,5 @@
+todo::
+
+combine obj2, obj3, obj4 into one class (TriangleObject or LaunchObject)
+clean up all of the code and think of better ways to check for certain thigns (Very vague)
+re implement SAT / rotational stuff?
